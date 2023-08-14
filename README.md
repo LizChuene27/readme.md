@@ -1,15 +1,5 @@
-Functional Requirements
-Objective : This app is specifically designed for medical practitioners and their patients. It helps the
-doctors track information about their patients as well as appointments. Patients will be able to see
-what’s available in terms of dates and times. On the other side, the administrator will be able to
-cancel, edit or make appointments and patient information.
-End-Result: This app will have features that allow the user to view available appointments dates.
-There will also be a feature where they put in their information once they have made an
-appointment that the doctor can see before meeting with the patient. On the other side, the
-administrator which is the medical practitioner or their PA will be able to make, cancel or edit
-appointments and patient information.
-The user will be required to input their contact details, age, gender and BMI, symptoms they are
-currently experiencing and why they would like to see the doctor. The user might also like to be able
-to make some changes to their bookings but at this point only the administrator will be able to do
-that. When the administrator modifies the user’s appointment, it will immediately send them an
-email notifying them of the changes that have been made.
+Before I start developing my app, I am going to start with the design phase which entails UX/UI Design/Research. This phase allowed me to determine who exactly I am designing for and from there I was able to determine the web stack I will be using for the development of my application. For this application, I will be using MERN stack as it provides quick scalability. In my experience, MERN stack tools have allowed me to write code quicker and efficiently. This gives me time to focus on other issues such as adding new features according to user specifications and resolving any issues that may arise withing my program. 
+MERN stack is suitable for programs of any size and complexity therefore this gives me room to play around where these particular factors are concerned. MERN stack has quite a community and is more popular because of it’s functionality. It simplifies code, it be front or back-end. 
+I am going to deploy the app on Heroku. From my experience with using Heroku, it allows manual horizontal and vertical scaling. It’s easy to use and quite straightforward. 
+I used Figma and AdobeXd to design and from there used React library to create the frontend. With this, there will also be Javascript for dynamic web pages and HTML. CSS will also be used, for styling. I will be using Create React App. 
+
