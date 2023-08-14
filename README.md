@@ -3,3 +3,7 @@ MERN stack is suitable for programs of any size and complexity therefore this gi
 I am going to deploy the app on Heroku. From my experience with using Heroku, it allows manual horizontal and vertical scaling. It’s easy to use and quite straightforward. 
 I used Figma and AdobeXd to design and from there used React library to create the frontend. With this, there will also be Javascript for dynamic web pages and HTML. CSS will also be used, for styling. I will be using Create React App. 
 
+![image](https://github.com/LizChuene27/readme.md/assets/136392346/22610dc1-c228-4483-9445-cbe81942d6ce)
+
+![image](https://github.com/LizChuene27/readme.md/assets/136392346/e8e29b40-13a2-4821-9e2e-db5457f9dbd9)
+
