@@ -7,3 +7,5 @@ I used Figma and AdobeXd to design and from there used React library to create t
 
 ![image](https://github.com/LizChuene27/readme.md/assets/136392346/e8e29b40-13a2-4821-9e2e-db5457f9dbd9)
 
+![image](https://github.com/LizChuene27/readme.md/assets/136392346/d7d5aaba-e636-4d34-9106-600abb810d9e)
+
